@@ -7,7 +7,7 @@ Hey I have created this app Just to provide some fun to people. I hope you have 
 Big Thanks!!
 
 Step 1: 
-copy this folder to the resource folder
+copy this folder to the resource folder\n
 Step 2:
 Add this command to your server.cfg file
 ensure christmas
